@@ -1,4 +1,7 @@
-https://media0.giphy.com/media/C9mK5CMJ3BJsCA1d6e/giphy.gif?cid=790b761186eb9f03f36055fa10f192d0aa9e7ae1e9b346c9&rid=giphy.gif&ct=g
+
+<p align="center">
+  <img src="https://github.com/Jorggyh/Jorggyh/blob/main/ezgif-3-798ebb3452.gif" alt="animated" />
+</p>
 <h1 align="center">Hi 👋, I'm Jefferson V. F.</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
