@@ -28,6 +28,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorggyh&show_icons=true&locale=en" alt="jorggyh" /></p>
 
+![Snake animation](https://github.com/jorggyh/jorggyh/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Jorggyh/Jorggyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
