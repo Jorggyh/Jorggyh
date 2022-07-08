@@ -24,9 +24,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorggyh&show_icons=true&locale=en&layout=compact" alt="jorggyh" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jorggyh&show_icons=true&locale=en" alt="jorggyh" /></p>
+<div align="center">
+  <a href="https://github.com/jorggyh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorggyh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorggyh&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ![Snake animation](https://github.com/jorggyh/jorggyh/blob/output/github-contribution-grid-snake.svg)
 
