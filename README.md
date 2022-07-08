@@ -1,4 +1,4 @@
-https://media.giphy.com/media/C9mK5CMJ3BJsCA1d6e/giphy-downsized-large.gif
+https://media0.giphy.com/media/C9mK5CMJ3BJsCA1d6e/giphy.gif?cid=790b761186eb9f03f36055fa10f192d0aa9e7ae1e9b346c9&rid=giphy.gif&ct=g
 <h1 align="center">Hi 👋, I'm Jefferson V. F.</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
