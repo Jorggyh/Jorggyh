@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/Jorggyh/Jorggyh/blob/main/ezgif-3-798ebb3452.gif" alt="animated" />
-</p>
 <h1 align="center">Hi 👋, I'm Jefferson V. F.</h1>
 <h3 align="center">A front-end developer from Brazil</h3>
 
